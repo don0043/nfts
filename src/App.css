@@ -1,0 +1,57 @@
+body{
+    background-color: darkgray;
+
+    font-family: 'Open Sans', sans-serif;
+
+}
+
+.cards{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0;
+    margin-top: 160px;
+}
+
+.card{
+    width: 400px;
+    margin-top: 30px;
+    margin-left: 100px;
+}
+
+
+
+.card-btn:hover{
+    color: black;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+.page{
+    padding-top: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+
+}
+.card-name{
+
+}
+.single-card{
+    padding: 40px;
+    margin-bottom: 60px;
+}
+
+.single-image{
+    margin-bottom: 40px;
+}
+.parag{
+    margin-bottom: 30px !important;
+    margin-top: 30px !important;
+}
+
+.views{
+    margin-top: 30px !important;
+}
